@@ -1,9 +1,7 @@
 ### Hi there 👋
-my name is  
-  <body>
-  
-     Anucha Rampeungnit
-  </body>
+my name is 
+
+    Anucha Rampeungnit
 
 
 
